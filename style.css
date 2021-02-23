@@ -1,0 +1,16 @@
+#Addmissons {
+    text-align: center;
+}
+
+.line {
+    height: 7px;
+    width: 150px;
+    margin: 6px auto;
+    background-color: coral;
+}
+#Website{
+    text-align: center;
+}
+#Map{
+    text-align: center;
+}
